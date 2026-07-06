@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="receipt" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M26 14 H70 V82 L60 76 L48 82 L36 76 L26 82 Z" fill="var(--sk-c1, #FFFFFF)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 14 H70 V82 L60 76 L48 82 L36 76 L26 82 Z"/>
+    <line x1="36" y1="34" x2="60" y2="34"/>
+    <line x1="36" y1="46" x2="60" y2="46"/>
+    <line x1="36" y1="58" x2="52" y2="58"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="balance" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <circle cx="48" cy="22" r="5" fill="var(--sk-c1, #FF922B)"/>
+      <path d="M20 30 L12 50 C12 58 28 58 28 50 Z" fill="var(--sk-c1, #FF922B)"/>
+      <path d="M76 30 L68 50 C68 58 84 58 84 50 Z" fill="var(--sk-c1, #FF922B)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="48" y1="18" x2="48" y2="74"/>
+    <line x1="28" y1="78" x2="68" y2="78"/>
+    <line x1="20" y1="30" x2="76" y2="30"/>
+    <circle cx="48" cy="22" r="5"/>
+    <path d="M20 30 L12 50 C12 58 28 58 28 50 Z"/>
+    <path d="M76 30 L68 50 C68 58 84 58 84 50 Z"/>
+  </g>
+</svg>

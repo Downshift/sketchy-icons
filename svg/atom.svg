@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="atom" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <circle cx="48" cy="48" r="5" fill="var(--sk-c1, #339AF0)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="48" cy="48" r="5"/>
+    <ellipse cx="48" cy="48" rx="32" ry="13"/>
+    <path d="M32 26 A32 13 60 1 0 64 70 A32 13 60 1 0 32 26 Z" stroke-width="4"/>
+    <path d="M64 26 A32 13 -60 1 0 32 70 A32 13 -60 1 0 64 26 Z" stroke-width="4"/>
+  </g>
+</svg>

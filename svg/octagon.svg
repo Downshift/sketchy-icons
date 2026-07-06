@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="octagon" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M61.01 16.59 L79.41 34.99 L79.41 61.01 L61.01 79.41 L34.99 79.41 L16.59 61.01 L16.59 34.99 L34.99 16.59 Z" fill="var(--sk-c1, #FF6B5B)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M61.01 16.59 L79.41 34.99 L79.41 61.01 L61.01 79.41 L34.99 79.41 L16.59 61.01 L16.59 34.99 L34.99 16.59 Z"/>
+  </g>
+</svg>

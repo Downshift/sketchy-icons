@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="certificate" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="paper">
+      <rect x="16" y="20" width="64" height="44" rx="5" fill="var(--sk-paper, #FFFFFF)"/>
+    </g>
+    <g class="fill" data-region="c1">
+      <circle cx="64" cy="66" r="10" fill="var(--sk-c1, #FFC933)"/>
+      <path d="M58 74 L54 86 L64 80 L74 86 L70 74" fill="var(--sk-c1, #FFC933)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="16" y="20" width="64" height="44" rx="5"/>
+    <line x1="26" y1="34" x2="60" y2="34"/>
+    <line x1="26" y1="46" x2="52" y2="46"/>
+    <circle cx="64" cy="66" r="10"/>
+    <path d="M58 74 L54 86 L64 80 L74 86 L70 74"/>
+  </g>
+</svg>

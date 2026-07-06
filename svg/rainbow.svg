@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="rainbow" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 72 A32 32 0 0 1 80 72" stroke="var(--sk-c1, #FF6B5B)" stroke-width="6"/>
+    <path d="M26 72 A22 22 0 0 1 70 72" stroke="var(--sk-c2, #40C057)" stroke-width="6"/>
+    <path d="M36 72 A12 12 0 0 1 60 72" stroke="var(--sk-c1, #FF6B5B)" stroke-width="6"/>
+  </g>
+</svg>

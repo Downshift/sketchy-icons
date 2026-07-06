@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="pin" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M40 16 H72 L64 30 V44 L76 58 H36 L48 44 V30 Z" fill="var(--sk-c1, #FF6B5B)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 16 H72 L64 30 V44 L76 58 H36 L48 44 V30 Z"/>
+    <line x1="56" y1="58" x2="56" y2="82"/>
+  </g>
+</svg>

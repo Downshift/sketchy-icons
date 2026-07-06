@@ -1,0 +1,23 @@
+{
+  "name": "@sketchie/icons",
+  "version": "0.1.0",
+  "description": "Sketchy Icon Library — original hand-drawn-style SVG icons with separate drawable stroke paths and per-region fill groups, built for whiteboard-explainer draw-on animation.",
+  "license": "MIT",
+  "type": "module",
+  "author": "Sketchie (sketchie.ai)",
+  "homepage": "https://sketchie.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Downshift/sketchy-icons.git"
+  },
+  "keywords": ["icons", "svg", "hand-drawn", "sketch", "whiteboard", "explainer", "animation", "draw-on"],
+  "main": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./icons.js": "./icons.js",
+    "./index.json": "./index.json",
+    "./taxonomy.json": "./taxonomy.json",
+    "./svg/*": "./svg/*"
+  },
+  "files": ["src", "svg", "icons.js", "index.json", "taxonomy.json", "README.md", "LICENSE"]
+}

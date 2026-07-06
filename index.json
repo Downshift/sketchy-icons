@@ -1,0 +1,937 @@
+{
+  "$schema": "sketchy-icon-index@1",
+  "generated": "2026-07-06",
+  "count": 186,
+  "icons": {
+    "abacus": {
+      "file": "svg/abacus.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "alarm-clock": {
+      "file": "svg/alarm-clock.svg",
+      "category": "time",
+      "tier": 1
+    },
+    "apple": {
+      "file": "svg/apple.svg",
+      "category": "food-drink",
+      "tier": 1
+    },
+    "arrow-down": {
+      "file": "svg/arrow-down.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "arrow-left": {
+      "file": "svg/arrow-left.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "arrow-right": {
+      "file": "svg/arrow-right.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "arrow-up": {
+      "file": "svg/arrow-up.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "at-sign": {
+      "file": "svg/at-sign.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "atom": {
+      "file": "svg/atom.svg",
+      "category": "science",
+      "tier": 1
+    },
+    "attachment": {
+      "file": "svg/attachment.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "balance": {
+      "file": "svg/balance.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "bandage": {
+      "file": "svg/bandage.svg",
+      "category": "medical",
+      "tier": 1
+    },
+    "bank": {
+      "file": "svg/bank.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "bar-chart": {
+      "file": "svg/bar-chart.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "battery": {
+      "file": "svg/battery.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "bell": {
+      "file": "svg/bell.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "bicycle": {
+      "file": "svg/bicycle.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "boat": {
+      "file": "svg/boat.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "bolt": {
+      "file": "svg/bolt.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "book": {
+      "file": "svg/book.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "bookmark": {
+      "file": "svg/bookmark.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "bottle": {
+      "file": "svg/bottle.svg",
+      "category": "food-drink",
+      "tier": 1
+    },
+    "brain": {
+      "file": "svg/brain.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "briefcase": {
+      "file": "svg/briefcase.svg",
+      "category": "business",
+      "tier": 1
+    },
+    "burger": {
+      "file": "svg/burger.svg",
+      "category": "food-drink",
+      "tier": 1
+    },
+    "bus": {
+      "file": "svg/bus.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "cake": {
+      "file": "svg/cake.svg",
+      "category": "food-drink",
+      "tier": 1
+    },
+    "calendar": {
+      "file": "svg/calendar.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "camera": {
+      "file": "svg/camera.svg",
+      "category": "devices-media",
+      "tier": 3
+    },
+    "car": {
+      "file": "svg/car.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "cart": {
+      "file": "svg/cart.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "certificate": {
+      "file": "svg/certificate.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "chart-up": {
+      "file": "svg/chart-up.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "chat": {
+      "file": "svg/chat.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "check": {
+      "file": "svg/check.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "checkmark-badge": {
+      "file": "svg/checkmark-badge.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "chevron-down": {
+      "file": "svg/chevron-down.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "chevron-left": {
+      "file": "svg/chevron-left.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "chevron-right": {
+      "file": "svg/chevron-right.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "chevron-up": {
+      "file": "svg/chevron-up.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "chip": {
+      "file": "svg/chip.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "circle-shape": {
+      "file": "svg/circle-shape.svg",
+      "category": "shapes-geometry",
+      "tier": 2
+    },
+    "clipboard": {
+      "file": "svg/clipboard.svg",
+      "category": "files-documents",
+      "tier": 2
+    },
+    "clock": {
+      "file": "svg/clock.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "close": {
+      "file": "svg/close.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "cloud": {
+      "file": "svg/cloud.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "cloud-rain": {
+      "file": "svg/cloud-rain.svg",
+      "category": "weather",
+      "tier": 1
+    },
+    "code": {
+      "file": "svg/code.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "coffee": {
+      "file": "svg/coffee.svg",
+      "category": "food-drink",
+      "tier": 1
+    },
+    "coin": {
+      "file": "svg/coin.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "compass": {
+      "file": "svg/compass.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "copy": {
+      "file": "svg/copy.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "credit-card": {
+      "file": "svg/credit-card.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "cross-shape": {
+      "file": "svg/cross-shape.svg",
+      "category": "shapes-geometry",
+      "tier": 2
+    },
+    "crowd": {
+      "file": "svg/crowd.svg",
+      "category": "people-roles",
+      "tier": 1
+    },
+    "cup": {
+      "file": "svg/cup.svg",
+      "category": "food-drink",
+      "tier": 1
+    },
+    "dashboard": {
+      "file": "svg/dashboard.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "database": {
+      "file": "svg/database.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "diamond-shape": {
+      "file": "svg/diamond-shape.svg",
+      "category": "shapes-geometry",
+      "tier": 2
+    },
+    "discount": {
+      "file": "svg/discount.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "dollar": {
+      "file": "svg/dollar.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "download": {
+      "file": "svg/download.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "edit": {
+      "file": "svg/edit.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "envelope": {
+      "file": "svg/envelope.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "expand": {
+      "file": "svg/expand.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "eye": {
+      "file": "svg/eye.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "file": {
+      "file": "svg/file.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "filter": {
+      "file": "svg/filter.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "fire": {
+      "file": "svg/fire.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "flag": {
+      "file": "svg/flag.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "flower": {
+      "file": "svg/flower.svg",
+      "category": "nature",
+      "tier": 1
+    },
+    "folder": {
+      "file": "svg/folder.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "funnel": {
+      "file": "svg/funnel.svg",
+      "category": "business",
+      "tier": 1
+    },
+    "gear": {
+      "file": "svg/gear.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "gift": {
+      "file": "svg/gift.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "globe": {
+      "file": "svg/globe.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "graduate-cap": {
+      "file": "svg/graduate-cap.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "grid": {
+      "file": "svg/grid.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "hammer": {
+      "file": "svg/hammer.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "headphones": {
+      "file": "svg/headphones.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "heart": {
+      "file": "svg/heart.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "heartbeat": {
+      "file": "svg/heartbeat.svg",
+      "category": "medical",
+      "tier": 1
+    },
+    "help": {
+      "file": "svg/help.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "hexagon": {
+      "file": "svg/hexagon.svg",
+      "category": "shapes-geometry",
+      "tier": 2
+    },
+    "home": {
+      "file": "svg/home.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "hourglass": {
+      "file": "svg/hourglass.svg",
+      "category": "time",
+      "tier": 1
+    },
+    "ice-cream": {
+      "file": "svg/ice-cream.svg",
+      "category": "food-drink",
+      "tier": 1
+    },
+    "info": {
+      "file": "svg/info.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "key": {
+      "file": "svg/key.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "laptop": {
+      "file": "svg/laptop.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "leaf": {
+      "file": "svg/leaf.svg",
+      "category": "nature",
+      "tier": 1
+    },
+    "lightbulb": {
+      "file": "svg/lightbulb.svg",
+      "category": "business",
+      "tier": 1
+    },
+    "link": {
+      "file": "svg/link.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "list": {
+      "file": "svg/list.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "location-pin": {
+      "file": "svg/location-pin.svg",
+      "category": "geography-flags",
+      "tier": 3
+    },
+    "lock": {
+      "file": "svg/lock.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "magnet": {
+      "file": "svg/magnet.svg",
+      "category": "science",
+      "tier": 1
+    },
+    "map": {
+      "file": "svg/map.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "medical-cross": {
+      "file": "svg/medical-cross.svg",
+      "category": "medical",
+      "tier": 1
+    },
+    "megaphone": {
+      "file": "svg/megaphone.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "menu": {
+      "file": "svg/menu.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "microphone": {
+      "file": "svg/microphone.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "microscope": {
+      "file": "svg/microscope.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "minus": {
+      "file": "svg/minus.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "money-bag": {
+      "file": "svg/money-bag.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "monitor": {
+      "file": "svg/monitor.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "moon": {
+      "file": "svg/moon.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "mountain": {
+      "file": "svg/mountain.svg",
+      "category": "nature",
+      "tier": 1
+    },
+    "notebook": {
+      "file": "svg/notebook.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "notification": {
+      "file": "svg/notification.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "octagon": {
+      "file": "svg/octagon.svg",
+      "category": "shapes-geometry",
+      "tier": 2
+    },
+    "oval": {
+      "file": "svg/oval.svg",
+      "category": "shapes-geometry",
+      "tier": 2
+    },
+    "paintbrush": {
+      "file": "svg/paintbrush.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "pause": {
+      "file": "svg/pause.svg",
+      "category": "time",
+      "tier": 1
+    },
+    "pencil": {
+      "file": "svg/pencil.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "pentagon": {
+      "file": "svg/pentagon.svg",
+      "category": "shapes-geometry",
+      "tier": 2
+    },
+    "person": {
+      "file": "svg/person.svg",
+      "category": "people-roles",
+      "tier": 1
+    },
+    "phone": {
+      "file": "svg/phone.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "phone-device": {
+      "file": "svg/phone-device.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "pie-chart": {
+      "file": "svg/pie-chart.svg",
+      "category": "data-visualization",
+      "tier": 2
+    },
+    "piggy-bank": {
+      "file": "svg/piggy-bank.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "pill": {
+      "file": "svg/pill.svg",
+      "category": "medical",
+      "tier": 1
+    },
+    "pin": {
+      "file": "svg/pin.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "pizza": {
+      "file": "svg/pizza.svg",
+      "category": "food-drink",
+      "tier": 1
+    },
+    "plane": {
+      "file": "svg/plane.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "play": {
+      "file": "svg/play.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "plus": {
+      "file": "svg/plus.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "power": {
+      "file": "svg/power.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "presentation": {
+      "file": "svg/presentation.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "printer": {
+      "file": "svg/printer.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "qr-code": {
+      "file": "svg/qr-code.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "rainbow": {
+      "file": "svg/rainbow.svg",
+      "category": "nature",
+      "tier": 1
+    },
+    "receipt": {
+      "file": "svg/receipt.svg",
+      "category": "business",
+      "tier": 1
+    },
+    "refresh": {
+      "file": "svg/refresh.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "repeat": {
+      "file": "svg/repeat.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "reply": {
+      "file": "svg/reply.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "ring-shape": {
+      "file": "svg/ring-shape.svg",
+      "category": "shapes-geometry",
+      "tier": 2
+    },
+    "robot": {
+      "file": "svg/robot.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "rocket": {
+      "file": "svg/rocket.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "ruler": {
+      "file": "svg/ruler.svg",
+      "category": "education",
+      "tier": 1
+    },
+    "save": {
+      "file": "svg/save.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "scissors": {
+      "file": "svg/scissors.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "screwdriver": {
+      "file": "svg/screwdriver.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "search": {
+      "file": "svg/search.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "seedling": {
+      "file": "svg/seedling.svg",
+      "category": "nature",
+      "tier": 1
+    },
+    "server": {
+      "file": "svg/server.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "settings": {
+      "file": "svg/settings.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "share": {
+      "file": "svg/share.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "shield-check": {
+      "file": "svg/shield-check.svg",
+      "category": "security",
+      "tier": 2
+    },
+    "snowflake": {
+      "file": "svg/snowflake.svg",
+      "category": "weather",
+      "tier": 1
+    },
+    "sort": {
+      "file": "svg/sort.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "speech-bubble": {
+      "file": "svg/speech-bubble.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "square-shape": {
+      "file": "svg/square-shape.svg",
+      "category": "shapes-geometry",
+      "tier": 2
+    },
+    "star": {
+      "file": "svg/star.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "stethoscope": {
+      "file": "svg/stethoscope.svg",
+      "category": "medical",
+      "tier": 1
+    },
+    "stopwatch": {
+      "file": "svg/stopwatch.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "sun": {
+      "file": "svg/sun.svg",
+      "category": "weather",
+      "tier": 1
+    },
+    "swap": {
+      "file": "svg/swap.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "tag": {
+      "file": "svg/tag.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "target": {
+      "file": "svg/target.svg",
+      "category": "business",
+      "tier": 1
+    },
+    "team": {
+      "file": "svg/team.svg",
+      "category": "people-roles",
+      "tier": 1
+    },
+    "terminal": {
+      "file": "svg/terminal.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "thumbs-up": {
+      "file": "svg/thumbs-up.svg",
+      "category": "emotions-gestures",
+      "tier": 1
+    },
+    "timer": {
+      "file": "svg/timer.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "toggle-on": {
+      "file": "svg/toggle-on.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "toolbox": {
+      "file": "svg/toolbox.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "tooth": {
+      "file": "svg/tooth.svg",
+      "category": "medical",
+      "tier": 1
+    },
+    "traffic-light": {
+      "file": "svg/traffic-light.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "trash": {
+      "file": "svg/trash.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "tree": {
+      "file": "svg/tree.svg",
+      "category": "nature",
+      "tier": 1
+    },
+    "trending-up": {
+      "file": "svg/trending-up.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "triangle-shape": {
+      "file": "svg/triangle-shape.svg",
+      "category": "shapes-geometry",
+      "tier": 2
+    },
+    "trophy": {
+      "file": "svg/trophy.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "truck": {
+      "file": "svg/truck.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "umbrella": {
+      "file": "svg/umbrella.svg",
+      "category": "weather",
+      "tier": 1
+    },
+    "unlock": {
+      "file": "svg/unlock.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "upload": {
+      "file": "svg/upload.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "user-check": {
+      "file": "svg/user-check.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "video-call": {
+      "file": "svg/video-call.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "wallet": {
+      "file": "svg/wallet.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "warning": {
+      "file": "svg/warning.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "water-drop": {
+      "file": "svg/water-drop.svg",
+      "category": "uncategorized",
+      "tier": 1
+    },
+    "wifi": {
+      "file": "svg/wifi.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "wind": {
+      "file": "svg/wind.svg",
+      "category": "nature",
+      "tier": 1
+    },
+    "wrench": {
+      "file": "svg/wrench.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "zoom-in": {
+      "file": "svg/zoom-in.svg",
+      "category": "ui-controls",
+      "tier": 1
+    }
+  }
+}

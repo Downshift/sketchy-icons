@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="funnel" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M16 22 H80 L54 54 V80 L42 72 V54 Z" fill="var(--sk-c1, #6C5CE7)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 22 H80 L54 54 V80 L42 72 V54 Z"/>
+  </g>
+</svg>
