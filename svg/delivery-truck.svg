@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="delivery-truck" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <rect x="12" y="36" width="42" height="34" rx="3" fill="var(--sk-c1, #339AF0)"/>
+    </g>
+    <g class="fill" data-region="paper">
+      <path d="M54 46 L74 46 L82 60 L82 70 L54 70 Z" fill="var(--sk-paper, #FFFFFF)"/>
+    </g>
+    <g class="fill" data-region="c2">
+      <circle cx="28" cy="74" r="6" fill="var(--sk-c2, #8A8F98)"/>
+      <circle cx="70" cy="74" r="6" fill="var(--sk-c2, #8A8F98)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="12" y="36" width="42" height="34" rx="3"/>
+    <path d="M54 46 L74 46 L82 60 L82 70 L54 70 Z"/>
+    <circle cx="28" cy="74" r="6"/>
+    <circle cx="70" cy="74" r="6"/>
+  </g>
+</svg>

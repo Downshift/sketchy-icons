@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="sd-card" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M30 16 L58 16 L70 28 L70 80 L30 80 Z" fill="var(--sk-c1, #FF922B)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 16 L58 16 L70 28 L70 80 L30 80 Z"/>
+    <line x1="38" y1="24" x2="38" y2="34"/>
+    <line x1="46" y1="20" x2="46" y2="34"/>
+    <line x1="54" y1="20" x2="54" y2="34"/>
+  </g>
+</svg>

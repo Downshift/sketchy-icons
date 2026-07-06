@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="dashed-arrow" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="18" y1="48" x2="28" y2="48"/>
+    <line x1="38" y1="48" x2="48" y2="48"/>
+    <line x1="58" y1="48" x2="68" y2="48"/>
+    <path d="M62 36 L78 48 L62 60"/>
+  </g>
+</svg>

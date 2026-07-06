@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="wind-turbine-weather" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c2">
+      <circle cx="48" cy="48" r="4" fill="var(--sk-c2, #FFFFFF)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="48" y1="82" x2="48" y2="48"/>
+    <path d="M48 48 L48 20" stroke="var(--sk-c1, #40C057)" stroke-width="5"/>
+    <path d="M48 48 L74 60" stroke="var(--sk-c1, #40C057)" stroke-width="5"/>
+    <path d="M48 48 L22 60" stroke="var(--sk-c1, #40C057)" stroke-width="5"/>
+    <circle cx="48" cy="48" r="4"/>
+  </g>
+</svg>

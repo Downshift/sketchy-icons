@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="strikethrough" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M34 24 C34 16 62 16 62 28"/>
+    <path d="M62 66 C62 78 30 78 30 68"/>
+    <line x1="16" y1="48" x2="80" y2="48" stroke-width="5"/>
+  </g>
+</svg>

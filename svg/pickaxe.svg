@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="pickaxe" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 34 C36 20 60 20 80 34" stroke="var(--sk-c1, #8A8F98)" stroke-width="5"/>
+    <line x1="48" y1="26" x2="48" y2="80" stroke="var(--sk-c2, #FF922B)" stroke-width="6"/>
+  </g>
+</svg>

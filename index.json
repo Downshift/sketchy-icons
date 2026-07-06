@@ -1,7 +1,7 @@
 {
   "$schema": "sketchy-icon-index@1",
   "generated": "2026-07-06",
-  "count": 382,
+  "count": 561,
   "icons": {
     "abacus": {
       "file": "svg/abacus.svg",
@@ -11,6 +11,11 @@
     "add": {
       "file": "svg/add.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "agenda": {
+      "file": "svg/agenda.svg",
+      "category": "business",
       "tier": 1
     },
     "airplane": {
@@ -28,6 +33,31 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "align-center": {
+      "file": "svg/align-center.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "align-justify": {
+      "file": "svg/align-justify.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "align-left": {
+      "file": "svg/align-left.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "align-right": {
+      "file": "svg/align-right.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "ambulance": {
+      "file": "svg/ambulance.svg",
+      "category": "transport",
+      "tier": 1
+    },
     "ambulance-medical": {
       "file": "svg/ambulance-medical.svg",
       "category": "medical",
@@ -41,6 +71,11 @@
     "announcement": {
       "file": "svg/announcement.svg",
       "category": "communication",
+      "tier": 1
+    },
+    "apartment": {
+      "file": "svg/apartment.svg",
+      "category": "buildings-places",
       "tier": 1
     },
     "apple": {
@@ -60,6 +95,16 @@
     },
     "archive": {
       "file": "svg/archive.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "arrow-circle": {
+      "file": "svg/arrow-circle.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "arrow-cursor": {
+      "file": "svg/arrow-cursor.svg",
       "category": "ui-controls",
       "tier": 1
     },
@@ -103,6 +148,26 @@
       "category": "arrows",
       "tier": 1
     },
+    "arrows-horizontal": {
+      "file": "svg/arrows-horizontal.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "arrows-in": {
+      "file": "svg/arrows-in.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "arrows-out": {
+      "file": "svg/arrows-out.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "arrows-vertical": {
+      "file": "svg/arrows-vertical.svg",
+      "category": "arrows",
+      "tier": 1
+    },
     "artist": {
       "file": "svg/artist.svg",
       "category": "people-roles",
@@ -116,6 +181,11 @@
     "atlas": {
       "file": "svg/atlas.svg",
       "category": "education",
+      "tier": 1
+    },
+    "atm": {
+      "file": "svg/atm.svg",
+      "category": "finance",
       "tier": 1
     },
     "atom": {
@@ -173,9 +243,29 @@
       "category": "buildings-places",
       "tier": 1
     },
+    "banknote": {
+      "file": "svg/banknote.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "barcode": {
+      "file": "svg/barcode.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "barn": {
+      "file": "svg/barn.svg",
+      "category": "buildings-places",
+      "tier": 1
+    },
     "battery": {
       "file": "svg/battery.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "battery-tech": {
+      "file": "svg/battery-tech.svg",
+      "category": "technology",
       "tier": 1
     },
     "beaker": {
@@ -203,9 +293,19 @@
       "category": "transport",
       "tier": 1
     },
+    "bill": {
+      "file": "svg/bill.svg",
+      "category": "finance",
+      "tier": 1
+    },
     "birthday": {
       "file": "svg/birthday.svg",
       "category": "time",
+      "tier": 1
+    },
+    "bitcoin": {
+      "file": "svg/bitcoin.svg",
+      "category": "finance",
       "tier": 1
     },
     "bluetooth": {
@@ -213,9 +313,19 @@
       "category": "technology",
       "tier": 1
     },
+    "boarding-pass": {
+      "file": "svg/boarding-pass.svg",
+      "category": "transport",
+      "tier": 1
+    },
     "boat": {
       "file": "svg/boat.svg",
       "category": "transport",
+      "tier": 1
+    },
+    "bold": {
+      "file": "svg/bold.svg",
+      "category": "ui-controls",
       "tier": 1
     },
     "bolt": {
@@ -263,9 +373,24 @@
       "category": "food-drink",
       "tier": 1
     },
+    "breadcrumb": {
+      "file": "svg/breadcrumb.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "briefcase": {
       "file": "svg/briefcase.svg",
       "category": "business",
+      "tier": 1
+    },
+    "broadcast": {
+      "file": "svg/broadcast.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "bucket": {
+      "file": "svg/bucket.svg",
+      "category": "tools",
       "tier": 1
     },
     "budget": {
@@ -288,6 +413,16 @@
       "category": "transport",
       "tier": 1
     },
+    "business-card": {
+      "file": "svg/business-card.svg",
+      "category": "business",
+      "tier": 1
+    },
+    "cable": {
+      "file": "svg/cable.svg",
+      "category": "technology",
+      "tier": 1
+    },
     "cactus": {
       "file": "svg/cactus.svg",
       "category": "nature",
@@ -298,9 +433,19 @@
       "category": "food-drink",
       "tier": 1
     },
+    "calculator": {
+      "file": "svg/calculator.svg",
+      "category": "finance",
+      "tier": 1
+    },
     "calendar": {
       "file": "svg/calendar.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "calendar-day": {
+      "file": "svg/calendar-day.svg",
+      "category": "time",
       "tier": 1
     },
     "call": {
@@ -333,6 +478,16 @@
       "category": "finance",
       "tier": 1
     },
+    "cash": {
+      "file": "svg/cash.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "castle": {
+      "file": "svg/castle.svg",
+      "category": "buildings-places",
+      "tier": 1
+    },
     "celebrate": {
       "file": "svg/celebrate.svg",
       "category": "emotions-gestures",
@@ -358,6 +513,11 @@
       "category": "communication",
       "tier": 1
     },
+    "checkbox": {
+      "file": "svg/checkbox.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "checklist": {
       "file": "svg/checklist.svg",
       "category": "business",
@@ -366,6 +526,11 @@
     "checkmark": {
       "file": "svg/checkmark.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "checkout": {
+      "file": "svg/checkout.svg",
+      "category": "finance",
       "tier": 1
     },
     "cheese": {
@@ -473,6 +638,11 @@
       "category": "finance",
       "tier": 1
     },
+    "comet": {
+      "file": "svg/comet.svg",
+      "category": "science",
+      "tier": 1
+    },
     "command": {
       "file": "svg/command.svg",
       "category": "ui-controls",
@@ -493,6 +663,16 @@
       "category": "emotions-gestures",
       "tier": 1
     },
+    "compound": {
+      "file": "svg/compound.svg",
+      "category": "science",
+      "tier": 1
+    },
+    "computer": {
+      "file": "svg/computer.svg",
+      "category": "technology",
+      "tier": 1
+    },
     "contract": {
       "file": "svg/contract.svg",
       "category": "business",
@@ -508,9 +688,29 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "corner-down": {
+      "file": "svg/corner-down.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "corner-up": {
+      "file": "svg/corner-up.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "countdown": {
+      "file": "svg/countdown.svg",
+      "category": "time",
+      "tier": 1
+    },
     "couple": {
       "file": "svg/couple.svg",
       "category": "people-roles",
+      "tier": 1
+    },
+    "coupon": {
+      "file": "svg/coupon.svg",
+      "category": "finance",
       "tier": 1
     },
     "cpu": {
@@ -521,6 +721,11 @@
     "credit-card": {
       "file": "svg/credit-card.svg",
       "category": "finance",
+      "tier": 1
+    },
+    "crop": {
+      "file": "svg/crop.svg",
+      "category": "ui-controls",
       "tier": 1
     },
     "cross-shape": {
@@ -553,9 +758,29 @@
       "category": "finance",
       "tier": 1
     },
+    "cursor": {
+      "file": "svg/cursor.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "curved-arrow": {
+      "file": "svg/curved-arrow.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "cycle": {
+      "file": "svg/cycle.svg",
+      "category": "arrows",
+      "tier": 1
+    },
     "dashboard": {
       "file": "svg/dashboard.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "dashed-arrow": {
+      "file": "svg/dashed-arrow.svg",
+      "category": "arrows",
       "tier": 1
     },
     "database": {
@@ -563,14 +788,39 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "database-tech": {
+      "file": "svg/database-tech.svg",
+      "category": "technology",
+      "tier": 1
+    },
     "deadline": {
       "file": "svg/deadline.svg",
       "category": "business",
       "tier": 1
     },
+    "debit-card": {
+      "file": "svg/debit-card.svg",
+      "category": "finance",
+      "tier": 1
+    },
     "delete": {
       "file": "svg/delete.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "delivery-truck": {
+      "file": "svg/delivery-truck.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "desk": {
+      "file": "svg/desk.svg",
+      "category": "business",
+      "tier": 1
+    },
+    "desktop": {
+      "file": "svg/desktop.svg",
+      "category": "technology",
       "tier": 1
     },
     "developer": {
@@ -598,6 +848,16 @@
       "category": "finance",
       "tier": 1
     },
+    "divide": {
+      "file": "svg/divide.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "dna": {
+      "file": "svg/dna.svg",
+      "category": "science",
+      "tier": 1
+    },
     "dna-medical": {
       "file": "svg/dna-medical.svg",
       "category": "medical",
@@ -618,6 +878,26 @@
       "category": "food-drink",
       "tier": 1
     },
+    "double-arrow-down": {
+      "file": "svg/double-arrow-down.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "double-arrow-left": {
+      "file": "svg/double-arrow-left.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "double-arrow-right": {
+      "file": "svg/double-arrow-right.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "double-arrow-up": {
+      "file": "svg/double-arrow-up.svg",
+      "category": "arrows",
+      "tier": 1
+    },
     "download": {
       "file": "svg/download.svg",
       "category": "ui-controls",
@@ -635,6 +915,11 @@
     },
     "drop": {
       "file": "svg/drop.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "dropdown": {
+      "file": "svg/dropdown.svg",
       "category": "ui-controls",
       "tier": 1
     },
@@ -661,6 +946,11 @@
     "envelope": {
       "file": "svg/envelope.svg",
       "category": "communication",
+      "tier": 1
+    },
+    "equals": {
+      "file": "svg/equals.svg",
+      "category": "ui-controls",
       "tier": 1
     },
     "error": {
@@ -698,6 +988,11 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "eye-off": {
+      "file": "svg/eye-off.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "factory": {
       "file": "svg/factory.svg",
       "category": "buildings-places",
@@ -718,9 +1013,19 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "feed": {
+      "file": "svg/feed.svg",
+      "category": "communication",
+      "tier": 1
+    },
     "feedback": {
       "file": "svg/feedback.svg",
       "category": "communication",
+      "tier": 1
+    },
+    "ferry": {
+      "file": "svg/ferry.svg",
+      "category": "transport",
       "tier": 1
     },
     "fever": {
@@ -746,6 +1051,11 @@
     "fire-nature": {
       "file": "svg/fire-nature.svg",
       "category": "nature",
+      "tier": 1
+    },
+    "fire-truck": {
+      "file": "svg/fire-truck.svg",
+      "category": "transport",
       "tier": 1
     },
     "first-aid-kit": {
@@ -778,6 +1088,11 @@
       "category": "nature",
       "tier": 1
     },
+    "fog-weather": {
+      "file": "svg/fog-weather.svg",
+      "category": "weather",
+      "tier": 1
+    },
     "folder": {
       "file": "svg/folder.svg",
       "category": "ui-controls",
@@ -788,14 +1103,34 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "fuel-pump": {
+      "file": "svg/fuel-pump.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "fullscreen": {
+      "file": "svg/fullscreen.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "funnel": {
       "file": "svg/funnel.svg",
       "category": "business",
       "tier": 1
     },
+    "galaxy": {
+      "file": "svg/galaxy.svg",
+      "category": "science",
+      "tier": 1
+    },
     "gallery": {
       "file": "svg/gallery.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "game-controller": {
+      "file": "svg/game-controller.svg",
+      "category": "technology",
       "tier": 1
     },
     "gear": {
@@ -811,6 +1146,16 @@
     "goal": {
       "file": "svg/goal.svg",
       "category": "business",
+      "tier": 1
+    },
+    "gold-bar": {
+      "file": "svg/gold-bar.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "gpu": {
+      "file": "svg/gpu.svg",
+      "category": "technology",
       "tier": 1
     },
     "graduate-cap": {
@@ -833,6 +1178,16 @@
       "category": "business",
       "tier": 1
     },
+    "growth-arrow": {
+      "file": "svg/growth-arrow.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "hail": {
+      "file": "svg/hail.svg",
+      "category": "weather",
+      "tier": 1
+    },
     "hammer": {
       "file": "svg/hammer.svg",
       "category": "tools",
@@ -846,6 +1201,21 @@
     "happy": {
       "file": "svg/happy.svg",
       "category": "emotions-gestures",
+      "tier": 1
+    },
+    "hard-drive": {
+      "file": "svg/hard-drive.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "hard-hat": {
+      "file": "svg/hard-hat.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "hashtag": {
+      "file": "svg/hashtag.svg",
+      "category": "ui-controls",
       "tier": 1
     },
     "headphones": {
@@ -883,9 +1253,19 @@
       "category": "shapes-geometry",
       "tier": 2
     },
+    "hierarchy": {
+      "file": "svg/hierarchy.svg",
+      "category": "business",
+      "tier": 1
+    },
     "home": {
       "file": "svg/home.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "hook": {
+      "file": "svg/hook.svg",
+      "category": "tools",
       "tier": 1
     },
     "hospital-building": {
@@ -893,9 +1273,24 @@
       "category": "buildings-places",
       "tier": 1
     },
+    "hot-air-balloon": {
+      "file": "svg/hot-air-balloon.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "hotel": {
+      "file": "svg/hotel.svg",
+      "category": "buildings-places",
+      "tier": 1
+    },
     "hourglass": {
       "file": "svg/hourglass.svg",
       "category": "time",
+      "tier": 1
+    },
+    "house": {
+      "file": "svg/house.svg",
+      "category": "buildings-places",
       "tier": 1
     },
     "ice-cream": {
@@ -928,6 +1323,21 @@
       "category": "business",
       "tier": 1
     },
+    "italic": {
+      "file": "svg/italic.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "joystick": {
+      "file": "svg/joystick.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "kanban": {
+      "file": "svg/kanban.svg",
+      "category": "business",
+      "tier": 1
+    },
     "key": {
       "file": "svg/key.svg",
       "category": "ui-controls",
@@ -946,6 +1356,11 @@
     "label": {
       "file": "svg/label.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "ladder": {
+      "file": "svg/ladder.svg",
+      "category": "business",
       "tier": 1
     },
     "laptop": {
@@ -973,9 +1388,29 @@
       "category": "nature",
       "tier": 1
     },
+    "letter": {
+      "file": "svg/letter.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "level": {
+      "file": "svg/level.svg",
+      "category": "tools",
+      "tier": 1
+    },
     "lightbulb": {
       "file": "svg/lightbulb.svg",
       "category": "business",
+      "tier": 1
+    },
+    "lighthouse": {
+      "file": "svg/lighthouse.svg",
+      "category": "buildings-places",
+      "tier": 1
+    },
+    "lightning": {
+      "file": "svg/lightning.svg",
+      "category": "weather",
       "tier": 1
     },
     "like": {
@@ -1038,6 +1473,16 @@
       "category": "communication",
       "tier": 1
     },
+    "mailbox": {
+      "file": "svg/mailbox.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "mallet": {
+      "file": "svg/mallet.svg",
+      "category": "tools",
+      "tier": 1
+    },
     "man": {
       "file": "svg/man.svg",
       "category": "people-roles",
@@ -1046,6 +1491,16 @@
     "map": {
       "file": "svg/map.svg",
       "category": "education",
+      "tier": 1
+    },
+    "map-pin": {
+      "file": "svg/map-pin.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "maximize": {
+      "file": "svg/maximize.svg",
+      "category": "ui-controls",
       "tier": 1
     },
     "medical-cross": {
@@ -1073,6 +1528,11 @@
       "category": "communication",
       "tier": 1
     },
+    "microchip": {
+      "file": "svg/microchip.svg",
+      "category": "technology",
+      "tier": 1
+    },
     "microphone": {
       "file": "svg/microphone.svg",
       "category": "communication",
@@ -1091,6 +1551,11 @@
     "milk": {
       "file": "svg/milk.svg",
       "category": "food-drink",
+      "tier": 1
+    },
+    "minimize": {
+      "file": "svg/minimize.svg",
+      "category": "ui-controls",
       "tier": 1
     },
     "minus": {
@@ -1133,9 +1598,34 @@
       "category": "nature",
       "tier": 1
     },
+    "move-down": {
+      "file": "svg/move-down.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "move-up": {
+      "file": "svg/move-up.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "multiply": {
+      "file": "svg/multiply.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "mushroom": {
       "file": "svg/mushroom.svg",
       "category": "nature",
+      "tier": 1
+    },
+    "nail": {
+      "file": "svg/nail.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "name-tag": {
+      "file": "svg/name-tag.svg",
+      "category": "business",
       "tier": 1
     },
     "navigation": {
@@ -1168,9 +1658,24 @@
       "category": "shapes-geometry",
       "tier": 2
     },
+    "office": {
+      "file": "svg/office.svg",
+      "category": "business",
+      "tier": 1
+    },
     "office-building": {
       "file": "svg/office-building.svg",
       "category": "buildings-places",
+      "tier": 1
+    },
+    "orbit": {
+      "file": "svg/orbit.svg",
+      "category": "science",
+      "tier": 1
+    },
+    "org-chart": {
+      "file": "svg/org-chart.svg",
+      "category": "business",
       "tier": 1
     },
     "oval": {
@@ -1188,9 +1693,34 @@
       "category": "tools",
       "tier": 1
     },
+    "paint-roller": {
+      "file": "svg/paint-roller.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "panel": {
+      "file": "svg/panel.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "paperclip": {
+      "file": "svg/paperclip.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "parking": {
+      "file": "svg/parking.svg",
+      "category": "transport",
+      "tier": 1
+    },
     "partly-cloudy": {
       "file": "svg/partly-cloudy.svg",
       "category": "weather",
+      "tier": 1
+    },
+    "passport": {
+      "file": "svg/passport.svg",
+      "category": "transport",
       "tier": 1
     },
     "pause": {
@@ -1218,14 +1748,29 @@
       "category": "people-roles",
       "tier": 1
     },
+    "percent": {
+      "file": "svg/percent.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "person": {
       "file": "svg/person.svg",
       "category": "people-roles",
       "tier": 1
     },
+    "petri-dish": {
+      "file": "svg/petri-dish.svg",
+      "category": "science",
+      "tier": 1
+    },
     "phone": {
       "file": "svg/phone.svg",
       "category": "communication",
+      "tier": 1
+    },
+    "pickaxe": {
+      "file": "svg/pickaxe.svg",
+      "category": "tools",
       "tier": 1
     },
     "pie-chart": {
@@ -1283,13 +1828,33 @@
       "category": "ui-media-controls",
       "tier": 2
     },
+    "pliers": {
+      "file": "svg/pliers.svg",
+      "category": "tools",
+      "tier": 1
+    },
     "plus": {
       "file": "svg/plus.svg",
       "category": "ui-controls",
       "tier": 1
     },
+    "pocket-watch": {
+      "file": "svg/pocket-watch.svg",
+      "category": "time",
+      "tier": 1
+    },
+    "podcast": {
+      "file": "svg/podcast.svg",
+      "category": "communication",
+      "tier": 1
+    },
     "poll": {
       "file": "svg/poll.svg",
+      "category": "communication",
+      "tier": 1
+    },
+    "postcard": {
+      "file": "svg/postcard.svg",
       "category": "communication",
       "tier": 1
     },
@@ -1323,6 +1888,16 @@
       "category": "technology",
       "tier": 1
     },
+    "prism": {
+      "file": "svg/prism.svg",
+      "category": "science",
+      "tier": 1
+    },
+    "processor": {
+      "file": "svg/processor.svg",
+      "category": "technology",
+      "tier": 1
+    },
     "profile": {
       "file": "svg/profile.svg",
       "category": "people-roles",
@@ -1343,6 +1918,16 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "quote": {
+      "file": "svg/quote.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
+    "radio-button": {
+      "file": "svg/radio-button.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "rain": {
       "file": "svg/rain.svg",
       "category": "weather",
@@ -1353,6 +1938,26 @@
       "category": "nature",
       "tier": 1
     },
+    "rainbow-weather": {
+      "file": "svg/rainbow-weather.svg",
+      "category": "weather",
+      "tier": 1
+    },
+    "raindrop": {
+      "file": "svg/raindrop.svg",
+      "category": "weather",
+      "tier": 1
+    },
+    "rake": {
+      "file": "svg/rake.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "ram": {
+      "file": "svg/ram.svg",
+      "category": "technology",
+      "tier": 1
+    },
     "receipt": {
       "file": "svg/receipt.svg",
       "category": "business",
@@ -1361,6 +1966,11 @@
     "redo": {
       "file": "svg/redo.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "redo-arrow": {
+      "file": "svg/redo-arrow.svg",
+      "category": "arrows",
       "tier": 1
     },
     "refresh": {
@@ -1398,6 +2008,11 @@
       "category": "shapes-geometry",
       "tier": 2
     },
+    "road-sign": {
+      "file": "svg/road-sign.svg",
+      "category": "transport",
+      "tier": 1
+    },
     "robot": {
       "file": "svg/robot.svg",
       "category": "technology",
@@ -1413,14 +2028,44 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "rotate-ccw": {
+      "file": "svg/rotate-ccw.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "rotate-cw": {
+      "file": "svg/rotate-cw.svg",
+      "category": "arrows",
+      "tier": 1
+    },
+    "router": {
+      "file": "svg/router.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "rss": {
+      "file": "svg/rss.svg",
+      "category": "communication",
+      "tier": 1
+    },
     "ruler": {
       "file": "svg/ruler.svg",
       "category": "education",
       "tier": 1
     },
+    "ruler-tool": {
+      "file": "svg/ruler-tool.svg",
+      "category": "tools",
+      "tier": 1
+    },
     "sad": {
       "file": "svg/sad.svg",
       "category": "emotions-gestures",
+      "tier": 1
+    },
+    "safe": {
+      "file": "svg/safe.svg",
+      "category": "finance",
       "tier": 1
     },
     "sailboat": {
@@ -1431,6 +2076,11 @@
     "salad": {
       "file": "svg/salad.svg",
       "category": "food-drink",
+      "tier": 1
+    },
+    "sandglass": {
+      "file": "svg/sandglass.svg",
+      "category": "time",
       "tier": 1
     },
     "satellite": {
@@ -1456,6 +2106,11 @@
     "scan": {
       "file": "svg/scan.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "scanner": {
+      "file": "svg/scanner.svg",
+      "category": "technology",
       "tier": 1
     },
     "school-building": {
@@ -1486,6 +2141,16 @@
     "screwdriver": {
       "file": "svg/screwdriver.svg",
       "category": "tools",
+      "tier": 1
+    },
+    "screwdriver-set": {
+      "file": "svg/screwdriver-set.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "sd-card": {
+      "file": "svg/sd-card.svg",
+      "category": "technology",
       "tier": 1
     },
     "search": {
@@ -1548,6 +2213,21 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "skyscraper": {
+      "file": "svg/skyscraper.svg",
+      "category": "buildings-places",
+      "tier": 1
+    },
+    "sledgehammer": {
+      "file": "svg/sledgehammer.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "slider": {
+      "file": "svg/slider.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "smartphone": {
       "file": "svg/smartphone.svg",
       "category": "technology",
@@ -1556,6 +2236,11 @@
     "smartwatch": {
       "file": "svg/smartwatch.svg",
       "category": "technology",
+      "tier": 1
+    },
+    "snooze": {
+      "file": "svg/snooze.svg",
+      "category": "time",
       "tier": 1
     },
     "snow": {
@@ -1578,14 +2263,39 @@
       "category": "arrows",
       "tier": 1
     },
+    "sort-descending": {
+      "file": "svg/sort-descending.svg",
+      "category": "arrows",
+      "tier": 1
+    },
     "soup": {
       "file": "svg/soup.svg",
       "category": "food-drink",
       "tier": 1
     },
+    "spaceship": {
+      "file": "svg/spaceship.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "spade": {
+      "file": "svg/spade.svg",
+      "category": "tools",
+      "tier": 1
+    },
     "speech-bubble": {
       "file": "svg/speech-bubble.svg",
       "category": "communication",
+      "tier": 1
+    },
+    "spray-can": {
+      "file": "svg/spray-can.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "spreadsheet": {
+      "file": "svg/spreadsheet.svg",
+      "category": "ui-controls",
       "tier": 1
     },
     "square-shape": {
@@ -1596,6 +2306,11 @@
     "star": {
       "file": "svg/star.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "steering-wheel": {
+      "file": "svg/steering-wheel.svg",
+      "category": "transport",
       "tier": 1
     },
     "stethoscope": {
@@ -1623,13 +2338,33 @@
       "category": "business",
       "tier": 1
     },
+    "strikethrough": {
+      "file": "svg/strikethrough.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "student": {
       "file": "svg/student.svg",
       "category": "people-roles",
       "tier": 1
     },
+    "submarine": {
+      "file": "svg/submarine.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "suitcase": {
+      "file": "svg/suitcase.svg",
+      "category": "transport",
+      "tier": 1
+    },
     "sun": {
       "file": "svg/sun.svg",
+      "category": "weather",
+      "tier": 1
+    },
+    "sun-behind-cloud": {
+      "file": "svg/sun-behind-cloud.svg",
       "category": "weather",
       "tier": 1
     },
@@ -1643,14 +2378,29 @@
       "category": "weather",
       "tier": 1
     },
+    "sunrise": {
+      "file": "svg/sunrise.svg",
+      "category": "time",
+      "tier": 1
+    },
     "sunrise-nature": {
       "file": "svg/sunrise-nature.svg",
       "category": "nature",
       "tier": 1
     },
+    "sunset": {
+      "file": "svg/sunset.svg",
+      "category": "time",
+      "tier": 1
+    },
     "swap": {
       "file": "svg/swap.svg",
       "category": "arrows",
+      "tier": 1
+    },
+    "switch": {
+      "file": "svg/switch.svg",
+      "category": "ui-controls",
       "tier": 1
     },
     "sync": {
@@ -1663,9 +2413,19 @@
       "category": "medical",
       "tier": 1
     },
+    "tab": {
+      "file": "svg/tab.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "table": {
       "file": "svg/table.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "tablet": {
+      "file": "svg/tablet.svg",
+      "category": "technology",
       "tier": 1
     },
     "tag": {
@@ -1673,9 +2433,19 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "tape-measure": {
+      "file": "svg/tape-measure.svg",
+      "category": "tools",
+      "tier": 1
+    },
     "target": {
       "file": "svg/target.svg",
       "category": "business",
+      "tier": 1
+    },
+    "tax": {
+      "file": "svg/tax.svg",
+      "category": "finance",
       "tier": 1
     },
     "taxi": {
@@ -1703,9 +2473,19 @@
       "category": "weather",
       "tier": 1
     },
+    "tent": {
+      "file": "svg/tent.svg",
+      "category": "buildings-places",
+      "tier": 1
+    },
     "terminal": {
       "file": "svg/terminal.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "terminal-tech": {
+      "file": "svg/terminal-tech.svg",
+      "category": "technology",
       "tier": 1
     },
     "test-tube": {
@@ -1713,9 +2493,19 @@
       "category": "science",
       "tier": 1
     },
+    "thermometer": {
+      "file": "svg/thermometer.svg",
+      "category": "science",
+      "tier": 1
+    },
     "thermometer-weather": {
       "file": "svg/thermometer-weather.svg",
       "category": "weather",
+      "tier": 1
+    },
+    "thumbnail": {
+      "file": "svg/thumbnail.svg",
+      "category": "ui-controls",
       "tier": 1
     },
     "thumbs-down": {
@@ -1728,6 +2518,11 @@
       "category": "emotions-gestures",
       "tier": 1
     },
+    "thunderstorm": {
+      "file": "svg/thunderstorm.svg",
+      "category": "weather",
+      "tier": 1
+    },
     "ticket": {
       "file": "svg/ticket.svg",
       "category": "transport",
@@ -1736,6 +2531,16 @@
     "timer": {
       "file": "svg/timer.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "tire": {
+      "file": "svg/tire.svg",
+      "category": "transport",
+      "tier": 1
+    },
+    "todo": {
+      "file": "svg/todo.svg",
+      "category": "business",
       "tier": 1
     },
     "toggle": {
@@ -1753,6 +2558,21 @@
       "category": "medical",
       "tier": 1
     },
+    "tornado-weather": {
+      "file": "svg/tornado-weather.svg",
+      "category": "weather",
+      "tier": 1
+    },
+    "tower": {
+      "file": "svg/tower.svg",
+      "category": "buildings-places",
+      "tier": 1
+    },
+    "tractor": {
+      "file": "svg/tractor.svg",
+      "category": "transport",
+      "tier": 1
+    },
     "traffic-light": {
       "file": "svg/traffic-light.svg",
       "category": "transport",
@@ -1766,6 +2586,11 @@
     "transfer": {
       "file": "svg/transfer.svg",
       "category": "finance",
+      "tier": 1
+    },
+    "translate": {
+      "file": "svg/translate.svg",
+      "category": "communication",
       "tier": 1
     },
     "trash": {
@@ -1818,9 +2643,19 @@
       "category": "weather",
       "tier": 1
     },
+    "underline": {
+      "file": "svg/underline.svg",
+      "category": "ui-controls",
+      "tier": 1
+    },
     "undo": {
       "file": "svg/undo.svg",
       "category": "ui-controls",
+      "tier": 1
+    },
+    "undo-arrow": {
+      "file": "svg/undo-arrow.svg",
+      "category": "arrows",
       "tier": 1
     },
     "unlock": {
@@ -1833,6 +2668,11 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "usb": {
+      "file": "svg/usb.svg",
+      "category": "technology",
+      "tier": 1
+    },
     "user": {
       "file": "svg/user.svg",
       "category": "people-roles",
@@ -1841,6 +2681,11 @@
     "users": {
       "file": "svg/users.svg",
       "category": "people-roles",
+      "tier": 1
+    },
+    "van": {
+      "file": "svg/van.svg",
+      "category": "transport",
       "tier": 1
     },
     "vault": {
@@ -1858,9 +2703,24 @@
       "category": "communication",
       "tier": 1
     },
+    "vote": {
+      "file": "svg/vote.svg",
+      "category": "business",
+      "tier": 1
+    },
     "wallet": {
       "file": "svg/wallet.svg",
       "category": "finance",
+      "tier": 1
+    },
+    "wallet-crypto": {
+      "file": "svg/wallet-crypto.svg",
+      "category": "finance",
+      "tier": 1
+    },
+    "warehouse": {
+      "file": "svg/warehouse.svg",
+      "category": "business",
       "tier": 1
     },
     "warning": {
@@ -1873,6 +2733,21 @@
       "category": "food-drink",
       "tier": 1
     },
+    "watering-can": {
+      "file": "svg/watering-can.svg",
+      "category": "tools",
+      "tier": 1
+    },
+    "webcam": {
+      "file": "svg/webcam.svg",
+      "category": "technology",
+      "tier": 1
+    },
+    "wheelbarrow": {
+      "file": "svg/wheelbarrow.svg",
+      "category": "tools",
+      "tier": 1
+    },
     "wheelchair-medical": {
       "file": "svg/wheelchair-medical.svg",
       "category": "medical",
@@ -1883,9 +2758,24 @@
       "category": "ui-controls",
       "tier": 1
     },
+    "wifi-tech": {
+      "file": "svg/wifi-tech.svg",
+      "category": "technology",
+      "tier": 1
+    },
     "wind": {
       "file": "svg/wind.svg",
       "category": "nature",
+      "tier": 1
+    },
+    "wind-turbine-weather": {
+      "file": "svg/wind-turbine-weather.svg",
+      "category": "weather",
+      "tier": 1
+    },
+    "windmill": {
+      "file": "svg/windmill.svg",
+      "category": "buildings-places",
       "tier": 1
     },
     "wine": {
@@ -1906,6 +2796,11 @@
     "wrench": {
       "file": "svg/wrench.svg",
       "category": "tools",
+      "tier": 1
+    },
+    "wristwatch": {
+      "file": "svg/wristwatch.svg",
+      "category": "time",
       "tier": 1
     },
     "zoom-in": {

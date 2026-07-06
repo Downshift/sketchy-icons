@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="thunderstorm" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="paper">
+      <path d="M28 52 C14 52 14 32 30 32 C30 20 56 18 60 34 C76 30 82 54 66 54 Z" fill="var(--sk-paper, #FFFFFF)"/>
+    </g>
+    <g class="fill" data-region="c2">
+      <path d="M50 54 L38 74 L48 74 L44 86 L60 66 L50 66 Z" fill="var(--sk-c2, #FFC933)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 52 C14 52 14 32 30 32 C30 20 56 18 60 34 C76 30 82 54 66 54 Z"/>
+    <path d="M50 54 L38 74 L48 74 L44 86 L60 66 L50 66 Z"/>
+  </g>
+</svg>

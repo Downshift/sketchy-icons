@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="radio-button" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="paper">
+      <circle cx="48" cy="48" r="30" fill="var(--sk-paper, #FFFFFF)"/>
+    </g>
+    <g class="fill" data-region="c1">
+      <circle cx="48" cy="48" r="13" fill="var(--sk-c1, #339AF0)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="48" cy="48" r="30"/>
+    <circle cx="48" cy="48" r="13"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="warehouse" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M14 78 L14 42 L48 24 L82 42 L82 78 Z" fill="var(--sk-c1, #8A8F98)"/>
+    </g>
+    <g class="fill" data-region="paper">
+      <rect x="38" y="54" width="20" height="24" rx="1" fill="var(--sk-paper, #FFFFFF)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 78 L14 42 L48 24 L82 42 L82 78 Z"/>
+    <rect x="38" y="54" width="20" height="24" rx="1"/>
+    <line x1="26" y1="50" x2="26" y2="66" stroke="var(--sk-paper, #FFFFFF)"/>
+    <line x1="70" y1="50" x2="70" y2="66" stroke="var(--sk-paper, #FFFFFF)"/>
+  </g>
+</svg>
