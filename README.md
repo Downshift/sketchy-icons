@@ -6,7 +6,7 @@ By **[Sketchie](https://sketchie.ai)**.
 
 ![Sketchy Icon Library — contact sheet](./preview.png)
 
-**382 icons shipped** so far, across 29 categories — every one passes the draw-on contract validator. These are the first batches of a **10,049-concept taxonomy** ([`taxonomy.json`](./taxonomy.json)) the library fills over scheduled batches on the way to **10,000 drawn icons**. See [the roadmap](#the-10000-icon-roadmap) below.
+**561 icons shipped** so far, across 29 categories — every one passes the draw-on contract validator. These are the first batches of a **10,049-concept taxonomy** ([`taxonomy.json`](./taxonomy.json)) the library fills over scheduled batches on the way to **10,000 drawn icons**. See [the roadmap](#the-10000-icon-roadmap) below.
 
 ## What makes these different
 
@@ -51,7 +51,7 @@ Nothing forces you to animate them — they're perfectly good static icons — b
 
 ## Usage
 
-**Grab a raw SVG file** — 382 of them in [`svg/`](./svg):
+**Grab a raw SVG file** — 561 of them in [`svg/`](./svg):
 
 ```html
 <img src="svg/rocket.svg" width="96" height="96" alt="rocket" />
@@ -86,7 +86,7 @@ The palette is the 8-marker set: violet `#6C5CE7`, pink `#E8538F`, coral `#FF6B5
 
 | File | What |
 |---|---|
-| [`svg/*.svg`](./svg) | one file per icon (382) |
+| [`svg/*.svg`](./svg) | one file per icon (561) |
 | [`icons.js`](./icons.js) | `export const SKETCHY_ICONS = { name: "<svg…>" }` |
 | [`index.json`](./index.json) | `{ name → { file, category, tier } }` for the shipped set |
 | [`taxonomy.json`](./taxonomy.json) | the full 10,049-concept target list (id, name, category, aliases, tier) |
@@ -105,7 +105,7 @@ House style: flat color + ink outline, one concept per icon, 2–6 interior elem
 | 2 | 1,774 | common domain terms |
 | 3 | 6,540 | the long tail |
 
-**382 shipped**, tier-1 first. New batches land on a schedule and extend `icons.js` / `index.json` / `svg/` in place — the taxonomy is the map, and it fills in over time.
+**561 shipped**, tier-1 first. New batches land on a schedule and extend `icons.js` / `index.json` / `svg/` in place — the taxonomy is the map, and it fills in over time.
 
 ## Requests & contributing
 
