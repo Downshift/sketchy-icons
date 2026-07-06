@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="compassion" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M48 44 C38 34 26 42 30 52 C33 60 48 68 48 68 C48 68 63 60 66 52 C70 42 58 34 48 44 Z" fill="var(--sk-c1, #E8538F)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 44 C38 34 26 42 30 52 C33 60 48 68 48 68 C48 68 63 60 66 52 C70 42 58 34 48 44 Z"/>
+  </g>
+</svg>

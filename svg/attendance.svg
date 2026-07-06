@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="attendance" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <circle cx="40" cy="30" r="14" fill="var(--sk-c1, #339AF0)"/>
+      <path d="M16 78 C16 58 27 50 40 50 C50 50 58 55 62 62" fill="var(--sk-c1, #339AF0)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="40" cy="30" r="14"/>
+    <path d="M16 78 C16 58 27 50 40 50 C50 50 58 55 62 62"/>
+    <path d="M60 70 L68 78 L84 58" stroke="var(--sk-c2, #40C057)" stroke-width="6"/>
+  </g>
+</svg>

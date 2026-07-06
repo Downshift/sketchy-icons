@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="backpack" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M24 40 C24 24 72 24 72 40 L72 80 L24 80 Z" fill="var(--sk-c1, #40C057)"/>
+    </g>
+    <g class="fill" data-region="c2">
+      <rect x="34" y="52" width="28" height="20" rx="2" fill="var(--sk-c2, #FF922B)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 40 C24 24 72 24 72 40 L72 80 L24 80 Z"/>
+    <path d="M36 40 C36 28 60 28 60 40"/>
+    <rect x="34" y="52" width="28" height="20" rx="2"/>
+  </g>
+</svg>

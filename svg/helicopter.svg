@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="helicopter" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <ellipse cx="44" cy="54" rx="24" ry="14" fill="var(--sk-c1, #339AF0)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="44" cy="54" rx="24" ry="14"/>
+    <path d="M68 50 L82 46 L82 58 L68 58"/>
+    <line x1="20" y1="34" x2="76" y2="34"/>
+    <line x1="44" y1="34" x2="44" y2="44"/>
+    <line x1="30" y1="68" x2="58" y2="68"/>
+  </g>
+</svg>

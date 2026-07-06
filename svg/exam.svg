@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="exam" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="paper">
+      <rect x="26" y="14" width="44" height="68" rx="3" fill="var(--sk-paper, #FFFFFF)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="26" y="14" width="44" height="68" rx="3"/>
+    <path d="M34 34 L38 38 L46 30" stroke="var(--sk-c2, #40C057)" stroke-width="4"/>
+    <line x1="52" y1="34" x2="64" y2="34"/>
+    <path d="M34 54 L38 58 L46 50" stroke="var(--sk-c2, #40C057)" stroke-width="4"/>
+    <line x1="52" y1="54" x2="64" y2="54"/>
+  </g>
+</svg>

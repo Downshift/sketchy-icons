@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="people" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <circle cx="30" cy="32" r="10" fill="var(--sk-c1, #6C5CE7)"/>
+      <path d="M14 74 C14 56 46 56 46 74 Z" fill="var(--sk-c1, #6C5CE7)"/>
+    </g>
+    <g class="fill" data-region="c2">
+      <circle cx="66" cy="32" r="10" fill="var(--sk-c2, #40C057)"/>
+      <path d="M50 74 C50 56 82 56 82 74 Z" fill="var(--sk-c2, #40C057)"/>
+    </g>
+    <g class="fill" data-region="paper">
+      <circle cx="48" cy="30" r="8" fill="var(--sk-paper, #FFFFFF)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="30" cy="32" r="10"/>
+    <path d="M14 74 C14 56 46 56 46 74 Z"/>
+    <circle cx="66" cy="32" r="10"/>
+    <path d="M50 74 C50 56 82 56 82 74 Z"/>
+    <circle cx="48" cy="30" r="8"/>
+  </g>
+</svg>

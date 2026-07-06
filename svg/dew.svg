@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="dew" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M48 14 C48 14 72 44 72 60 A24 24 0 0 1 24 60 C24 44 48 14 48 14 Z" fill="var(--sk-c1, #339AF0)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 14 C48 14 72 44 72 60 A24 24 0 0 1 24 60 C24 44 48 14 48 14 Z"/>
+    <path d="M38 60 C38 68 44 72 44 72" stroke="var(--sk-paper, #FFFFFF)" stroke-width="4"/>
+  </g>
+</svg>

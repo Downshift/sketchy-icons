@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="queen" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <circle cx="48" cy="44" r="13" fill="var(--sk-c1, #E8538F)"/>
+      <path d="M24 82 C24 60 72 60 72 82 Z" fill="var(--sk-c1, #E8538F)"/>
+      <path d="M32 30 L30 16 L40 24 L48 14 L56 24 L66 16 L64 30 Z" fill="var(--sk-c1, #E8538F)"/>
+      <circle cx="48" cy="14" r="2.5" fill="var(--sk-c1, #E8538F)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="48" cy="44" r="13"/>
+    <path d="M24 82 C24 60 72 60 72 82 Z"/>
+    <path d="M32 30 L30 16 L40 24 L48 14 L56 24 L66 16 L64 30 Z"/>
+    <circle cx="48" cy="14" r="2.5"/>
+  </g>
+</svg>

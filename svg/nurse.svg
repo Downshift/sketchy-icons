@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="nurse" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="paper">
+      <circle cx="48" cy="32" r="13" fill="var(--sk-paper, #FFFFFF)"/>
+      <path d="M24 82 C24 60 72 60 72 82 Z" fill="var(--sk-paper, #FFFFFF)"/>
+    </g>
+    <g class="fill" data-region="c2">
+      <rect x="42" y="14" width="12" height="5" fill="var(--sk-c2, #FF6B5B)"/>
+      <rect x="45.5" y="10" width="5" height="12" fill="var(--sk-c2, #FF6B5B)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="48" cy="32" r="13"/>
+    <path d="M24 82 C24 60 72 60 72 82 Z"/>
+    <rect x="42" y="14" width="12" height="5"/>
+    <rect x="45.5" y="10" width="5" height="12"/>
+  </g>
+</svg>

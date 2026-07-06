@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="brain-medical" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M46 20 C30 20 24 34 30 40 C22 46 26 60 36 60 C36 74 54 74 54 62 L54 24 C54 20 50 20 46 20 Z" fill="var(--sk-c1, #E8538F)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 20 C30 20 24 34 30 40 C22 46 26 60 36 60 C36 74 54 74 54 62 L54 24 C54 20 50 20 46 20 Z"/>
+    <path d="M54 24 C66 20 74 32 68 40 C76 46 72 60 62 60 C62 72 50 72 50 62"/>
+    <line x1="46" y1="34" x2="40" y2="34"/>
+  </g>
+</svg>

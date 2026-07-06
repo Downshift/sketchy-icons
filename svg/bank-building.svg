@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="bank-building" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M16 40 L48 20 L80 40 Z" fill="var(--sk-c1, #339AF0)"/>
+    </g>
+    <g class="fill" data-region="c2">
+      <rect x="14" y="74" width="68" height="8" rx="1" fill="var(--sk-c2, #FFC933)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 40 L48 20 L80 40 Z"/>
+    <line x1="24" y1="46" x2="24" y2="72"/>
+    <line x1="40" y1="46" x2="40" y2="72"/>
+    <line x1="56" y1="46" x2="56" y2="72"/>
+    <line x1="72" y1="46" x2="72" y2="72"/>
+    <rect x="14" y="74" width="68" height="8" rx="1"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="thumbs-down" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <path d="M30 50 L30 16 L64 16 C70 16 72 36 74 44 C76 52 68 52 60 52 L48 52 C52 62 52 76 44 76 C38 76 40 62 30 50 Z" fill="var(--sk-c1, #FF6B5B)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 50 L30 16 L64 16 C70 16 72 36 74 44 C76 52 68 52 60 52 L48 52 C52 62 52 76 44 76 C38 76 40 62 30 50 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="worker" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <circle cx="48" cy="40" r="13" fill="var(--sk-c1, #FF922B)"/>
+      <path d="M24 82 C24 60 72 60 72 82 Z" fill="var(--sk-c1, #FF922B)"/>
+    </g>
+    <g class="fill" data-region="c2">
+      <path d="M30 30 C30 18 66 18 66 30 Z" fill="var(--sk-c2, #FFC933)"/>
+      <rect x="28" y="28" width="40" height="5" fill="var(--sk-c2, #FFC933)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="48" cy="40" r="13"/>
+    <path d="M24 82 C24 60 72 60 72 82 Z"/>
+    <path d="M30 30 C30 18 66 18 66 30 Z"/>
+    <rect x="28" y="28" width="40" height="5"/>
+  </g>
+</svg>

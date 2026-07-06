@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="smartphone" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <rect x="30" y="14" width="36" height="68" rx="8" fill="var(--sk-c1, #6C5CE7)"/>
+    </g>
+    <g class="fill" data-region="paper">
+      <rect x="36" y="24" width="24" height="40" rx="2" fill="var(--sk-paper, #FFFFFF)"/>
+      <circle cx="48" cy="74" r="3" fill="var(--sk-paper, #FFFFFF)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="30" y="14" width="36" height="68" rx="8"/>
+    <rect x="36" y="24" width="24" height="40" rx="2"/>
+    <circle cx="48" cy="74" r="3"/>
+  </g>
+</svg>

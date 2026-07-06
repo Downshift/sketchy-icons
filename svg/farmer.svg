@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="farmer" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <circle cx="48" cy="40" r="13" fill="var(--sk-c1, #40C057)"/>
+      <path d="M24 82 C24 60 72 60 72 82 Z" fill="var(--sk-c1, #40C057)"/>
+    </g>
+    <g class="fill" data-region="c2">
+      <ellipse cx="48" cy="26" rx="26" ry="6" fill="var(--sk-c2, #FF922B)"/>
+      <path d="M34 26 C34 16 62 16 62 26 Z" fill="var(--sk-c2, #FF922B)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="48" cy="40" r="13"/>
+    <path d="M24 82 C24 60 72 60 72 82 Z"/>
+    <ellipse cx="48" cy="26" rx="26" ry="6"/>
+    <path d="M34 26 C34 16 62 16 62 26 Z"/>
+  </g>
+</svg>

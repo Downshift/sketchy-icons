@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="teacher" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="c1">
+      <circle cx="34" cy="34" r="12" fill="var(--sk-c1, #6C5CE7)"/>
+      <path d="M16 80 C16 60 52 60 52 80 Z" fill="var(--sk-c1, #6C5CE7)"/>
+    </g>
+    <g class="fill" data-region="c2">
+      <rect x="58" y="30" width="24" height="30" rx="2" fill="var(--sk-c2, #40C057)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="34" cy="34" r="12"/>
+    <path d="M16 80 C16 60 52 60 52 80 Z"/>
+    <rect x="58" y="30" width="24" height="30" rx="2"/>
+    <line x1="64" y1="40" x2="76" y2="40"/>
+    <line x1="64" y1="48" x2="76" y2="48"/>
+  </g>
+</svg>

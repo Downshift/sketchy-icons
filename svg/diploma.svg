@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" data-icon="diploma" style="color:var(--sk-ink,#1E1E28)">
+  <g class="fills" stroke="none">
+    <g class="fill" data-region="paper">
+      <rect x="18" y="34" width="60" height="28" rx="2" fill="var(--sk-paper, #FFFFFF)"/>
+    </g>
+    <g class="fill" data-region="c2">
+      <circle cx="66" cy="66" r="8" fill="var(--sk-c2, #FF6B5B)"/>
+      <path d="M62 72 L58 84 L66 78 L74 84 L70 72" fill="var(--sk-c2, #FF6B5B)"/>
+    </g>
+  </g>
+  <g class="ink" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="18" y="34" width="60" height="28" rx="2"/>
+    <line x1="28" y1="44" x2="60" y2="44"/>
+    <line x1="28" y1="52" x2="52" y2="52"/>
+    <circle cx="66" cy="66" r="8"/>
+    <path d="M62 72 L58 84 L66 78 L74 84 L70 72"/>
+  </g>
+</svg>
